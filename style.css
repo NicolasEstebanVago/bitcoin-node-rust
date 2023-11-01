@@ -1,0 +1,13 @@
+grid {
+    border: 1px solid black;
+}
+.grid-cell {
+    border: 1px solid black;
+    
+}
+box {
+    border: 1px solid black;
+}
+label {
+    border: 1px solid black;
+}
